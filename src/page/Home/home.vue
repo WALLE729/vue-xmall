@@ -102,7 +102,7 @@
         if (this.notify !== value) {
           this.dialogVisible = true
           setStore('notify', this.notify)
-        } 
+        }
       }
     },
     mounted () {
